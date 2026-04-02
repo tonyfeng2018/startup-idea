@@ -108,4 +108,5 @@ startup-idea/
 ---
 
 *Last updated: 2026-04-02*  
-*Author: Tony F @ tongweb3*
+*Author: Tony F*  
+*Email: tongfweb3@gmail.com*
