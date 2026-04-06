@@ -177,4 +177,5 @@ MIT License - see [LICENSE](./LICENSE) file.
 
 *Last updated: 2026-04-06*  
 *Author: Tony F*  
+*Email: tongfweb3@gmail.com*  
 *GitHub: https://github.com/tonyfeng2018/startup-idea*
