@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-v5.3-blue.svg)](./CHANGELOG.md)
 [![Powered by YC+A16Z](https://img.shields.io/badge/Powered%20by-YC%2BA16Z-purple.svg)](https://www.ycombinator.com/)
+[![联动项目](https://img.shields.io/badge/→%20vc--diligence%20深度尽调-red.svg)](https://github.com/tonyfeng2018/vc-diligence)
 
 ---
 
@@ -137,9 +138,24 @@ python run_analysis.py "你的创业想法"
 
 ---
 
-## 🔗 关联项目
+## 🔗 联动项目
 
-- **[vc-diligence](https://github.com/tonyfeng2018/vc-diligence)** — 投资尽职调查，完成想法验证后可继续进行深度尽调
+> ⚡ **startup-idea + vc-diligence = 完整的项目评估流水线**
+
+```
+startup-idea  →  验证"该不该做"（想法靠不靠谱？）
+        ↓
+vc-diligence →  验证"值不值得投"（深度尽调+Red Flags）
+        ↓
+→ 创始人接触 + 条款谈判 + 投资决策
+```
+
+| 工具 | 回答问题 | 适合场景 |
+|------|---------|---------|
+| **startup-idea** | 这个想法值不值得做？ | 创业早期/参赛/孵化器评审 |
+| **vc-diligence** | 这个项目值不值得投？ | 投资/Pre-TGE/深度分析 |
+
+👉 **[vc-diligence — 点击跳转 →](https://github.com/tonyfeng2018/vc-diligence)**
 
 ---
 
