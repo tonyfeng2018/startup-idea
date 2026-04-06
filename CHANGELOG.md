@@ -1,61 +1,55 @@
-# Changelog - startup-idea
+# CHANGELOG - startup-idea
 
 All notable changes to this project will be documented in this file.
+
+## [v5.3] - 2026-04-06
+
+### Added
+- README 开头视觉升级：添加醒目的 tagline 和 emoji bullet list
+- 新增 Features 一键概览（带 emoji）
+- 新增 Quick Start 一键复制 Prompt 示例
+- 新增 适用场景 板块（创业者/孵化器/大赛评委/投资人/MBA课程）
+- 新增示例输出章节（7维评分表 + Mermaid 竞品矩阵 + SWOT）
+- 新增 app/streamlit_app.py - Web 演示界面
+- 新增 examples/run_analysis.py - Python CLI 脚本
+- 新增 examples/demo_prompt.md - 示例 Prompt 集合
+- 新增 LICENSE (MIT)
+- 新增 .gitignore
+- SKILL.md 增加 How It Works 设计原理说明
+- SKILL.md 增加 Limitations 局限性说明
+
+### Improved
+- README 结构优化：Features / Quick Start / 演示视频占位 / 适用场景 分块清晰
+- README 添加关联项目 vc-diligence 链接
+- 版本号统一为 v5.3
 
 ---
 
 ## [v5.2] - 2026-04-03
 
-### Changed
-- **通用化处理**：去除具体模型名称，适配不同AI平台/模型
-- **添加模型使用建议**：明确不同场景推荐使用的模型
-- **添加使用条件说明**：说明如何最大化工具功能
+### Added
+- 通用化处理，添加模型使用建议表格
 
-### v5.2 Features
-- 7维评估体系（带权重）
-- 6项并行搜索规则
-- Mermaid竞品矩阵
-- Pitch Deck摘要（3页）
-- 最小验证动作清单
-- 数据来源可信度评分
+### Changed
+- 优化输出模板
 
 ---
 
 ## [v5.1] - 2026-04-03
 
 ### Added
-- 7维评估体系
-- 并行搜索规则
-- Mermaid输出
-- 搜索失败透明处理
+- 七维评估 + Mermaid 输出
 
 ---
 
-## [v5] - 2026-04-02
+## [v5.0] - 2026-04-02
 
 ### Added
 - 初始版本发布
 - 七维评估体系
-- 竞品Feature Matrix
-- 关键假设清单
-- 最小验证动作
+- 6项强制搜索规则
+- 竞品矩阵、SWOT、最小验证动作
 
 ---
 
-## v5.2 更新说明
-
-### 脱敏处理
-- 移除具体模型名称引用
-- 使用通用描述（如"推理模式开启的模型"）
-
-### 模型使用条件
-| 场景 | 推荐 |
-|-----|------|
-| 深度推理 | 推理模式模型 |
-| 长文输出 | 128K+输出模型 |
-| 快速验证 | 基础模型 |
-| 搜索增强 | 配合搜索工具 |
-
----
-
-*持续更新中...*
+*For more details, see the commit history.*
